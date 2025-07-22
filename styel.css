@@ -83,3 +83,39 @@ section {
 .Experience-section h3 {
     color: rgb(233, 8, 8);
 }
+
+.Experience-section .header-areanew {
+    box-shadow: 0px 2px 17px 10px #9c9a9a;
+    width: 38%;
+    margin: 30px;
+    padding: 15px 30px;
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, orange);
+    border-image-slice: 1;
+}
+
+.Experience-section .header-areanew2 {
+    box-shadow: 0px 2px 17px 10px #9c9a9a;
+    width: 38%;
+    margin: 30px;
+    padding: 15px 30px;
+    border-left: 7px solid;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
+}
+
+
+
+
+
+
+.Experience-section {
+    background-image: url(images/images.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+
+}
+
+footer p {
+    text-align: center;
+}
